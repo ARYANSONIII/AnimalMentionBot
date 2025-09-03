@@ -36,7 +36,7 @@ async def start(event):
             [
                 Button.url(
                     " Aᴅᴅ ᴍᴇ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ",
-                    "https://t.me/Royal_Mention_Bot?startgroup=true",
+                    "https://t.me/Knight_Mention_Robot?startgroup=true",
                 ),
             ],
             [
